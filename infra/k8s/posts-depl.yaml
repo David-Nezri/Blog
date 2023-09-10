@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: posts
-          image: davidnezri/posts-71:0.0.1
+          image: rallycoding/posts-71:0.0.1
